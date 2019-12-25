@@ -1,0 +1,27 @@
+body{
+	border: 20px solid #bdc3c7;
+	margin: 20px 400px 20px 400px;
+}
+
+p {
+	margin-left: 20px;
+}
+
+.first {
+	border-left: 8px solid #bdc3c7;
+	padding-left: 8px;
+}
+
+.article{
+	font-family: "Source Sans Pro";
+	font-size: 30px;
+	font-weight: 700;
+	color: #2c3e50;
+	margin-left: 20px;
+}
+
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+}
+

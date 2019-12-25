@@ -1,0 +1,28 @@
+div {
+	width: 25%;
+	height: 25rem;
+	margin: 0 auto;
+	background-color: pink;
+}
+
+.line {
+	text-decoration: line-through;
+}
+
+#table {
+	width: 100%;
+}
+
+td {
+	padding: 10px 0;
+}
+
+#plus {
+	text-align: right;
+	width: 50%;
+}
+
+.icon {
+	visibility: hidden;
+}
+

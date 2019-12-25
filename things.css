@@ -1,0 +1,14 @@
+/*ol+h2 {
+	font-family: Indie Flower;
+}
+ul li:nth-of-type(even) {
+	font-family: Raleway;
+}*/
+
+li {
+	font-size: 2em;
+	/*font-weight: bold;
+	line-height: 1.5;
+	text-align: center;
+	text-decoration: underline;*/
+}
